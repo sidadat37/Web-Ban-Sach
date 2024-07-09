@@ -22,5 +22,6 @@ export const routes = [
   {
     path:'*',
     page: NotFoundPage
+
   }
 ]
